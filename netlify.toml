@@ -1,0 +1,5 @@
+[build]
+  # Install dependencies from the lockfile before building, so the build works
+  # even in environments that don't run a separate install step.
+  command = "npm ci --include=dev --no-audit --no-fund && npm run build"
+  publish = "dist"
