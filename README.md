@@ -3,7 +3,7 @@
 A scroll-led, WebGL fan experience for Chainsaw Man — seven characters, floating portrait galleries and a cursor-driven **RUN MODE** built on top of the original site.
 
 **Built by Krish ([@krizzh7](https://github.com/krizzh7))**
-Check out the live website here: https://myfanpage-csm.vercel.app/
+Check out the live website here: https://thebloodarchive.vercel.app
 
 > Fan project. Chainsaw Man and all artwork belong to their original creators; this is a non-commercial tribute.
 
